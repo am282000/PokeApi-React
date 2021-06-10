@@ -38,7 +38,7 @@ const Pokemon = () => {
         <h1>My name is <span style={{color:"red"}}> {name} </span> </h1>
         <h1>I have <span style={{color:"red"}}> {moves} </span> moves</h1>
         <h1>Type of Pokemon is <span style={{color:"red"}}> {type} </span> </h1>
-        <h1>Speciaql Abilities <span style={{color:"red"}}> {abilities} </span> </h1>
+        <h1>Special Abilities <span style={{color:"red"}}> {abilities} </span> </h1>
 
 
 
